@@ -572,6 +572,7 @@ FLOWS = {
         "wiffi",
         "wilight",
         "withings",
+        "wittiot",
         "wiz",
         "wled",
         "wolflink",
