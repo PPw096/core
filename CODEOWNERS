@@ -1499,6 +1499,7 @@ build.json @home-assistant/supervisor
 /homeassistant/components/withings/ @joostlek
 /tests/components/withings/ @joostlek
 /homeassistant/components/wittiot/ @Wittiot
+/tests/components/wittiot/ @Wittiot
 /homeassistant/components/wiz/ @sbidy
 /tests/components/wiz/ @sbidy
 /homeassistant/components/wled/ @frenck
